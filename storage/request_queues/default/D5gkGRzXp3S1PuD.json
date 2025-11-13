@@ -1,0 +1,9 @@
+{
+	"id": "D5gkGRzXp3S1PuD",
+	"json": "{\"id\":\"D5gkGRzXp3S1PuD\",\"url\":\"https://happy.bg/privacy_policy\",\"loadedUrl\":\"https://happy.bg/privacy_policy\",\"uniqueKey\":\"https://happy.bg/privacy_policy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:50:52.582Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/privacy_policy",
+	"url": "https://happy.bg/privacy_policy"
+}

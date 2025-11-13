@@ -1,0 +1,9 @@
+{
+	"id": "aQ3ZjMX2SZWN8c2",
+	"json": "{\"id\":\"aQ3ZjMX2SZWN8c2\",\"url\":\"https://happy.bg/blog/84/happy-poke-bowl\",\"loadedUrl\":\"https://happy.bg/blog/84/happy-poke-bowl\",\"uniqueKey\":\"https://happy.bg/blog/84/happy-poke-bowl\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":7,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:58.382Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/blog/84/happy-poke-bowl",
+	"url": "https://happy.bg/blog/84/happy-poke-bowl"
+}

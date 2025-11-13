@@ -1,0 +1,9 @@
+{
+	"id": "MaZtwdeoEtEVK97",
+	"json": "{\"id\":\"MaZtwdeoEtEVK97\",\"url\":\"https://happy.bg/menu/view/2\",\"loadedUrl\":\"https://happy.bg/menu/view/2\",\"uniqueKey\":\"https://happy.bg/menu/view/2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:20.267Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/menu/view/2",
+	"url": "https://happy.bg/menu/view/2"
+}

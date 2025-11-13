@@ -1,0 +1,9 @@
+{
+	"id": "0jijzIKnVUzAdpH",
+	"json": "{\"id\":\"0jijzIKnVUzAdpH\",\"url\":\"https://happy.bg/happy_inside/products\",\"loadedUrl\":\"https://happy.bg/happy_inside/products\",\"uniqueKey\":\"https://happy.bg/happy_inside/products\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:57.966Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/happy_inside/products",
+	"url": "https://happy.bg/happy_inside/products"
+}

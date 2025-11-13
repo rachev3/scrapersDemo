@@ -1,0 +1,30 @@
+{
+  "name": "crawlee-dual-crawlers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Crawlee project with both CheerioCrawler and PlaywrightCrawler, runnable via Yarn.",
+  "scripts": {
+    "start": "yarn start:cheerio",
+    "start:cheerio": "tsx src/cheerioCrawler.ts",
+    "start:playwright": "tsx src/playwrightCrawler.ts",
+    "start:links": "tsx src/playwrightLinksCrawler.ts",
+    "start:pages": "tsx src/pagesScraper/allPagesScraper.ts",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "crawlee": "^3.9.0",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.48.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "yarn@4.9.0+sha512.5f5f00843eae735dfab6f0442524603e987ceca55e98b36eb0120f4e58908e5b1406545321e46627dca97d15d562f23dc13fb96cabd4e6bc92d379f619001e4e"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3iGuoR14E2xvn9c",
+	"json": "{\"id\":\"3iGuoR14E2xvn9c\",\"url\":\"https://happy.bg/restaurants/13/happy-shel-yug\",\"loadedUrl\":\"https://happy.bg/restaurants/13/happy-shel-yug\",\"uniqueKey\":\"https://happy.bg/restaurants/13/happy-shel-yug\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:04.699Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/13/happy-shel-yug",
+	"url": "https://happy.bg/restaurants/13/happy-shel-yug"
+}

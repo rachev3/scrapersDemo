@@ -1,0 +1,9 @@
+{
+	"id": "Kpj7vUDuxEav3i4",
+	"json": "{\"id\":\"Kpj7vUDuxEav3i4\",\"url\":\"http://happy.bg/redbull_quiz\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"http://happy.bg/redbull_quiz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":4,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:31.196Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://happy.bg/redbull_quiz",
+	"url": "http://happy.bg/redbull_quiz"
+}

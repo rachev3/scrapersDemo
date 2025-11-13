@@ -1,0 +1,9 @@
+{
+	"id": "TR8JmnEUgn7kKgW",
+	"json": "{\"id\":\"TR8JmnEUgn7kKgW\",\"url\":\"https://happy.bg/restaurants/19/happy-bar-grill-viktoriya\",\"loadedUrl\":\"https://happy.bg/restaurants/19/happy-viktoriya-sofiya\",\"uniqueKey\":\"https://happy.bg/restaurants/19/happy-bar-grill-viktoriya\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:41.844Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/19/happy-bar-grill-viktoriya",
+	"url": "https://happy.bg/restaurants/19/happy-bar-grill-viktoriya"
+}

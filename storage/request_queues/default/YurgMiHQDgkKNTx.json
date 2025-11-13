@@ -1,0 +1,9 @@
+{
+	"id": "YurgMiHQDgkKNTx",
+	"json": "{\"id\":\"YurgMiHQDgkKNTx\",\"url\":\"https://happy.bg/hellmanns\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg/hellmanns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":9,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:13.930Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/hellmanns",
+	"url": "https://happy.bg/hellmanns"
+}

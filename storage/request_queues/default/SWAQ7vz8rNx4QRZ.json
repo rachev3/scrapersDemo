@@ -1,0 +1,9 @@
+{
+	"id": "SWAQ7vz8rNx4QRZ",
+	"json": "{\"id\":\"SWAQ7vz8rNx4QRZ\",\"url\":\"https://happy.bg/restaurants/varna\",\"loadedUrl\":\"https://happy.bg/restaurants/varna\",\"uniqueKey\":\"https://happy.bg/restaurants/varna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:05.862Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/varna",
+	"url": "https://happy.bg/restaurants/varna"
+}

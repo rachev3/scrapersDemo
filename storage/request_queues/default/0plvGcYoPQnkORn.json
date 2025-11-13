@@ -1,0 +1,9 @@
+{
+	"id": "0plvGcYoPQnkORn",
+	"json": "{\"id\":\"0plvGcYoPQnkORn\",\"url\":\"https://happy.bg/happy_30\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg/happy_30\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":6,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:50.954Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/happy_30",
+	"url": "https://happy.bg/happy_30"
+}

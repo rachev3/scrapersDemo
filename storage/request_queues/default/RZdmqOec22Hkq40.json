@@ -1,0 +1,9 @@
+{
+	"id": "RZdmqOec22Hkq40",
+	"json": "{\"id\":\"RZdmqOec22Hkq40\",\"url\":\"https://happy.bg/restaurants/24/happy-sv-nedelya-sofiya\",\"loadedUrl\":\"https://happy.bg/restaurants/24/happy-sv-nedelya-sofiya\",\"uniqueKey\":\"https://happy.bg/restaurants/24/happy-sv-nedelya-sofiya\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:00.377Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/24/happy-sv-nedelya-sofiya",
+	"url": "https://happy.bg/restaurants/24/happy-sv-nedelya-sofiya"
+}

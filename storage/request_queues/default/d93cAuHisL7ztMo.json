@@ -1,0 +1,9 @@
+{
+	"id": "d93cAuHisL7ztMo",
+	"json": "{\"id\":\"d93cAuHisL7ztMo\",\"url\":\"https://happy.bg/restaurants/8/happy-tsentar-varna\",\"loadedUrl\":\"https://happy.bg/restaurants/8/happy-tsentar-varna\",\"uniqueKey\":\"https://happy.bg/restaurants/8/happy-tsentar-varna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:07.065Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/8/happy-tsentar-varna",
+	"url": "https://happy.bg/restaurants/8/happy-tsentar-varna"
+}

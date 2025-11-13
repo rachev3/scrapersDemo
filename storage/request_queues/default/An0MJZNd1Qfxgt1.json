@@ -1,0 +1,9 @@
+{
+	"id": "An0MJZNd1Qfxgt1",
+	"json": "{\"id\":\"An0MJZNd1Qfxgt1\",\"url\":\"https://happy.bg/restoranti/happy-bar-grill-mol-sofia/\",\"loadedUrl\":\"https://happy.bg/restaurants/23/happy-mol-sofiya\",\"uniqueKey\":\"https://happy.bg/restoranti/happy-bar-grill-mol-sofia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":20,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:51.647Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restoranti/happy-bar-grill-mol-sofia",
+	"url": "https://happy.bg/restoranti/happy-bar-grill-mol-sofia/"
+}

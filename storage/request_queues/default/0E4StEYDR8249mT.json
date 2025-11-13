@@ -1,0 +1,9 @@
+{
+	"id": "0E4StEYDR8249mT",
+	"json": "{\"id\":\"0E4StEYDR8249mT\",\"url\":\"https://happy.bg/contacts\",\"loadedUrl\":\"https://happy.bg/contacts\",\"uniqueKey\":\"https://happy.bg/contacts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:12.057Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/contacts",
+	"url": "https://happy.bg/contacts"
+}

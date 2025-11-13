@@ -1,0 +1,9 @@
+{
+	"id": "1qgUwCodcNd6oHh",
+	"json": "{\"id\":\"1qgUwCodcNd6oHh\",\"url\":\"https://happy.bg/restaurants/18/happy-mladost-sofiya\",\"loadedUrl\":\"https://happy.bg/restaurants/18/happy-mladost-sofiya\",\"uniqueKey\":\"https://happy.bg/restaurants/18/happy-mladost-sofiya\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:50:57.392Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/18/happy-mladost-sofiya",
+	"url": "https://happy.bg/restaurants/18/happy-mladost-sofiya"
+}

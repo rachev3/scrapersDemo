@@ -1,0 +1,9 @@
+{
+	"id": "u4flOZUMbURDwgY",
+	"json": "{\"id\":\"u4flOZUMbURDwgY\",\"url\":\"https://happy.bg/proteinpower\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg/proteinpower\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":6,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:54.619Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/proteinpower",
+	"url": "https://happy.bg/proteinpower"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "SWMvU24AwBLnirj",
+	"json": "{\"id\":\"SWMvU24AwBLnirj\",\"url\":\"https://happy.bg/restaurants/sandanski\",\"loadedUrl\":\"https://happy.bg/restaurants/7/happy-sandanski\",\"uniqueKey\":\"https://happy.bg/restaurants/sandanski\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:39.187Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/sandanski",
+	"url": "https://happy.bg/restaurants/sandanski"
+}

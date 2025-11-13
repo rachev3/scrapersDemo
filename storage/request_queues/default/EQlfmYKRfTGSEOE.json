@@ -1,0 +1,9 @@
+{
+	"id": "EQlfmYKRfTGSEOE",
+	"json": "{\"id\":\"EQlfmYKRfTGSEOE\",\"url\":\"https://happy.bg/restaurants/3/happy-bar-grill-lendmark\",\"loadedUrl\":\"https://happy.bg/restaurants/3/happy-lendmark-plovdiv\",\"uniqueKey\":\"https://happy.bg/restaurants/3/happy-bar-grill-lendmark\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:43.448Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/3/happy-bar-grill-lendmark",
+	"url": "https://happy.bg/restaurants/3/happy-bar-grill-lendmark"
+}

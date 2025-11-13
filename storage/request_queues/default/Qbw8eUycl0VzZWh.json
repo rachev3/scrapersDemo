@@ -1,0 +1,9 @@
+{
+	"id": "Qbw8eUycl0VzZWh",
+	"json": "{\"id\":\"Qbw8eUycl0VzZWh\",\"url\":\"https://happy.bg/restaurants/ruse\",\"loadedUrl\":\"https://happy.bg/restaurants/6/happy-ruse\",\"uniqueKey\":\"https://happy.bg/restaurants/ruse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:38.644Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/ruse",
+	"url": "https://happy.bg/restaurants/ruse"
+}

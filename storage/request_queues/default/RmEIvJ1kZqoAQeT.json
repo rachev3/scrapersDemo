@@ -1,0 +1,9 @@
+{
+	"id": "RmEIvJ1kZqoAQeT",
+	"json": "{\"id\":\"RmEIvJ1kZqoAQeT\",\"url\":\"https://happy.bg/restaurants/view/22\",\"loadedUrl\":\"https://happy.bg/restaurants/view/22\",\"uniqueKey\":\"https://happy.bg/restaurants/view/22\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:29.032Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/view/22",
+	"url": "https://happy.bg/restaurants/view/22"
+}

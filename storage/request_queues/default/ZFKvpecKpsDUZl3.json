@@ -1,0 +1,9 @@
+{
+	"id": "ZFKvpecKpsDUZl3",
+	"json": "{\"id\":\"ZFKvpecKpsDUZl3\",\"url\":\"https://happy.bg/restaurants/5/happy-tsentar-burgas\",\"loadedUrl\":\"https://happy.bg/restaurants/5/happy-tsentar-burgas\",\"uniqueKey\":\"https://happy.bg/restaurants/5/happy-tsentar-burgas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:08.356Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/5/happy-tsentar-burgas",
+	"url": "https://happy.bg/restaurants/5/happy-tsentar-burgas"
+}

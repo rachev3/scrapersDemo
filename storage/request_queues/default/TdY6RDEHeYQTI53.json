@@ -1,0 +1,9 @@
+{
+	"id": "TdY6RDEHeYQTI53",
+	"json": "{\"id\":\"TdY6RDEHeYQTI53\",\"url\":\"https://happy.bg/vouchers/register\",\"loadedUrl\":\"https://happy.bg/vouchers/register\",\"uniqueKey\":\"https://happy.bg/vouchers/register\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:58.886Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/vouchers/register",
+	"url": "https://happy.bg/vouchers/register"
+}

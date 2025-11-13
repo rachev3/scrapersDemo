@@ -1,0 +1,9 @@
+{
+	"id": "n1OAcKd9yaoFtsL",
+	"json": "{\"id\":\"n1OAcKd9yaoFtsL\",\"url\":\"https://happy.bg/\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-13T15:50:49.576Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg",
+	"url": "https://happy.bg/"
+}

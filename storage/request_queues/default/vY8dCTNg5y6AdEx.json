@@ -1,0 +1,9 @@
+{
+	"id": "vY8dCTNg5y6AdEx",
+	"json": "{\"id\":\"vY8dCTNg5y6AdEx\",\"url\":\"https://happy.bg/restaurants/4/happy-morska-gara-varna\",\"loadedUrl\":\"https://happy.bg/restaurants/4/happy-morska-gara-varna\",\"uniqueKey\":\"https://happy.bg/restaurants/4/happy-morska-gara-varna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:06.405Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/4/happy-morska-gara-varna",
+	"url": "https://happy.bg/restaurants/4/happy-morska-gara-varna"
+}

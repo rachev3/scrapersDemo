@@ -1,0 +1,9 @@
+{
+	"id": "qTS3WVDaYEEtQ9W",
+	"json": "{\"id\":\"qTS3WVDaYEEtQ9W\",\"url\":\"https://happy.bg/vouchers\",\"loadedUrl\":\"https://happy.bg/vouchers\",\"uniqueKey\":\"https://happy.bg/vouchers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:14.847Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/vouchers",
+	"url": "https://happy.bg/vouchers"
+}

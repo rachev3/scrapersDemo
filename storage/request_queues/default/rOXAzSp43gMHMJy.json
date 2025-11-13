@@ -1,0 +1,9 @@
+{
+	"id": "rOXAzSp43gMHMJy",
+	"json": "{\"id\":\"rOXAzSp43gMHMJy\",\"url\":\"https://happy.bg/restaurants/7/happy-sandanski\",\"loadedUrl\":\"https://happy.bg/restaurants/7/happy-sandanski\",\"uniqueKey\":\"https://happy.bg/restaurants/7/happy-sandanski\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:09.990Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/restaurants/7/happy-sandanski",
+	"url": "https://happy.bg/restaurants/7/happy-sandanski"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "REMTPR4grjeaUkg",
+	"json": "{\"id\":\"REMTPR4grjeaUkg\",\"url\":\"https://happy.bg/blog/page/15\",\"loadedUrl\":\"https://happy.bg/blog/page/15\",\"uniqueKey\":\"https://happy.bg/blog/page/15\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":15,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:32.045Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/blog/page/15",
+	"url": "https://happy.bg/blog/page/15"
+}

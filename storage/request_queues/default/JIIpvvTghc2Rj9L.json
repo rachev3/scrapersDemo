@@ -1,0 +1,9 @@
+{
+	"id": "JIIpvvTghc2Rj9L",
+	"json": "{\"id\":\"JIIpvvTghc2Rj9L\",\"url\":\"https://happy.bg/restaurants/8/happy-bar-grill-tsentar-varna\",\"loadedUrl\":\"https://happy.bg/restaurants/8/happy-tsentar-varna\",\"uniqueKey\":\"https://happy.bg/restaurants/8/happy-bar-grill-tsentar-varna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.waitForLoadState: Timeout 30000ms exceeded.\\n    at PlaywrightCrawler.requestHandler (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\src\\\\playwrightLinksCrawler.ts:75:18)\\n    at <anonymous> (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\browser-crawler.ts:590:50)\\n    at wrap (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@apify\\\\src\\\\index.ts:77:33)\\n    at <anonymous> (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@apify\\\\src\\\\index.ts:93:13)\\n    at <anonymous> (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@apify\\\\src\\\\index.ts:92:17)\\n    at addTimeoutToPromise (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@apify\\\\src\\\\index.ts:85:12)\\n    at PlaywrightCrawler._runRequestHandler (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\browser-crawler.ts:589:38)\\n    at async PlaywrightCrawler._runRequestHandler (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\playwright-crawler.ts:243:9)\\n    at async wrap (C:\\\\BlackdeepTech\\\\scrapersDemo\\\\node_modules\\\\@apify\\\\src\\\\index.ts:77:27)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:54:19.910Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://happy.bg/restaurants/8/happy-bar-grill-tsentar-varna",
+	"url": "https://happy.bg/restaurants/8/happy-bar-grill-tsentar-varna"
+}

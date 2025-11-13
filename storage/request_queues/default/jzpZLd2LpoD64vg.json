@@ -1,0 +1,9 @@
+{
+	"id": "jzpZLd2LpoD64vg",
+	"json": "{\"id\":\"jzpZLd2LpoD64vg\",\"url\":\"https://happy.bg/menu/view/1\",\"loadedUrl\":\"https://happy.bg/menu/view/1\",\"uniqueKey\":\"https://happy.bg/menu/view/1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:17.894Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://happy.bg/menu/view/1",
+	"url": "https://happy.bg/menu/view/1"
+}
