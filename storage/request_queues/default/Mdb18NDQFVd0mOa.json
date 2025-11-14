@@ -1,9 +1,0 @@
-{
-	"id": "Mdb18NDQFVd0mOa",
-	"json": "{\"id\":\"Mdb18NDQFVd0mOa\",\"url\":\"https://happy.bg/restaurants/11/happy-bar-grill-tsentar-plovdiv\",\"loadedUrl\":\"https://happy.bg/restaurants/11/happy-tsentar-plovdiv\",\"uniqueKey\":\"https://happy.bg/restaurants/11/happy-bar-grill-tsentar-plovdiv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:43.806Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/11/happy-bar-grill-tsentar-plovdiv",
-	"url": "https://happy.bg/restaurants/11/happy-bar-grill-tsentar-plovdiv"
-}

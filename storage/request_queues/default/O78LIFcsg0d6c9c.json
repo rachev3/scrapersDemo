@@ -1,9 +1,0 @@
-{
-	"id": "O78LIFcsg0d6c9c",
-	"json": "{\"id\":\"O78LIFcsg0d6c9c\",\"url\":\"https://happy.bg/promotions/1\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg/promotions/1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":11,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:24.558Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/promotions/1",
-	"url": "https://happy.bg/promotions/1"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "79zpoOG3kAwL6Hg",
-	"json": "{\"id\":\"79zpoOG3kAwL6Hg\",\"url\":\"https://happy.bg/blog/page/7\",\"loadedUrl\":\"https://happy.bg/blog/page/7\",\"uniqueKey\":\"https://happy.bg/blog/page/7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":7,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:59.644Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/blog/page/7",
-	"url": "https://happy.bg/blog/page/7"
-}

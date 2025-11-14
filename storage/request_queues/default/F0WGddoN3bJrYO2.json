@@ -1,9 +1,0 @@
-{
-	"id": "F0WGddoN3bJrYO2",
-	"json": "{\"id\":\"F0WGddoN3bJrYO2\",\"url\":\"https://happy.bg/restaurants/3/happy-lendmark-plovdiv\",\"loadedUrl\":\"https://happy.bg/restaurants/3/happy-lendmark-plovdiv\",\"uniqueKey\":\"https://happy.bg/restaurants/3/happy-lendmark-plovdiv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:02.954Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/3/happy-lendmark-plovdiv",
-	"url": "https://happy.bg/restaurants/3/happy-lendmark-plovdiv"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "nq9lVSNpUsriYA3",
-	"json": "{\"id\":\"nq9lVSNpUsriYA3\",\"url\":\"https://happy.bg/restaurants/9/happy-yan-palah-varna\",\"loadedUrl\":\"https://happy.bg/restaurants/9/happy-yan-palah-varna\",\"uniqueKey\":\"https://happy.bg/restaurants/9/happy-yan-palah-varna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:07.625Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/9/happy-yan-palah-varna",
-	"url": "https://happy.bg/restaurants/9/happy-yan-palah-varna"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "5E10bBl07R97vnY",
-	"json": "{\"id\":\"5E10bBl07R97vnY\",\"url\":\"https://happy.bg/blog/17/happy-bar-grill-%D0%B8%D0%B7%D1%82%D0%BE%D0%BA-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8\",\"loadedUrl\":\"https://happy.bg/blog/17/happy-bar-grill-%D0%B8%D0%B7%D1%82%D0%BE%D0%BA-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8\",\"uniqueKey\":\"https://happy.bg/blog/17/happy-bar-grill-%D0%B8%D0%B7%D1%82%D0%BE%D0%BA-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":17,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:35.626Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/blog/17/happy-bar-grill-%D0%B8%D0%B7%D1%82%D0%BE%D0%BA-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8",
-	"url": "https://happy.bg/blog/17/happy-bar-grill-%D0%B8%D0%B7%D1%82%D0%BE%D0%BA-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "5se3C15s4y0j6iv",
-	"json": "{\"id\":\"5se3C15s4y0j6iv\",\"url\":\"https://happy.bg/restoranti/happy-paradise/\",\"loadedUrl\":\"https://happy.bg/restaurants/20/happy-mol-paradays-sofiya\",\"uniqueKey\":\"https://happy.bg/restoranti/happy-paradise\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":20,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:52.601Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restoranti/happy-paradise",
-	"url": "https://happy.bg/restoranti/happy-paradise/"
-}

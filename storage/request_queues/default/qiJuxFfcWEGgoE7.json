@@ -1,9 +1,0 @@
-{
-	"id": "qiJuxFfcWEGgoE7",
-	"json": "{\"id\":\"qiJuxFfcWEGgoE7\",\"url\":\"https://happy.bg/restaurants/sofia\",\"loadedUrl\":\"https://happy.bg/restaurants/sofia\",\"uniqueKey\":\"https://happy.bg/restaurants/sofia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:50:55.262Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/sofia",
-	"url": "https://happy.bg/restaurants/sofia"
-}

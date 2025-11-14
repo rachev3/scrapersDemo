@@ -1,9 +1,0 @@
-{
-	"id": "c9ADi22A6vhKkKe",
-	"json": "{\"id\":\"c9ADi22A6vhKkKe\",\"url\":\"https://happy.bg/restaurants/12/happy-grand-hotel-plovdiv\",\"loadedUrl\":\"https://happy.bg/restaurants/12/happy-grand-hotel-plovdiv\",\"uniqueKey\":\"https://happy.bg/restaurants/12/happy-grand-hotel-plovdiv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:03.957Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/12/happy-grand-hotel-plovdiv",
-	"url": "https://happy.bg/restaurants/12/happy-grand-hotel-plovdiv"
-}

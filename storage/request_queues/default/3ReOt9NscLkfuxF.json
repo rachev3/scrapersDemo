@@ -1,9 +1,0 @@
-{
-	"id": "3ReOt9NscLkfuxF",
-	"json": "{\"id\":\"3ReOt9NscLkfuxF\",\"url\":\"https://happy.bg/restaurants/7/happy-bar-grill-sandanski\",\"loadedUrl\":\"https://happy.bg/restaurants/7/happy-sandanski\",\"uniqueKey\":\"https://happy.bg/restaurants/7/happy-bar-grill-sandanski\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:51:12.507Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/7/happy-bar-grill-sandanski",
-	"url": "https://happy.bg/restaurants/7/happy-bar-grill-sandanski"
-}

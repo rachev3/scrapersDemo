@@ -1,9 +1,0 @@
-{
-	"id": "fpq90wK62Su3UgX",
-	"json": "{\"id\":\"fpq90wK62Su3UgX\",\"url\":\"https://happy.bg/sushi_cup/9/%D0%B5%D0%BC%D0%B8%D0%BB\",\"loadedUrl\":\"https://happy.bg/sushi_cup/9/%D0%B5%D0%BC%D0%B8%D0%BB\",\"uniqueKey\":\"https://happy.bg/sushi_cup/9/%D0%B5%D0%BC%D0%B8%D0%BB\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":3,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:11.835Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/sushi_cup/9/%D0%B5%D0%BC%D0%B8%D0%BB",
-	"url": "https://happy.bg/sushi_cup/9/%D0%B5%D0%BC%D0%B8%D0%BB"
-}

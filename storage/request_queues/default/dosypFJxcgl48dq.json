@@ -1,9 +1,0 @@
-{
-	"id": "dosypFJxcgl48dq",
-	"json": "{\"id\":\"dosypFJxcgl48dq\",\"url\":\"https://happy.bg/menu-2/kokteyli-i-deserti/\",\"loadedUrl\":\"https://happy.bg/menu/view/3\",\"uniqueKey\":\"https://happy.bg/menu-2/kokteyli-i-deserti\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":20,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:51.355Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/menu-2/kokteyli-i-deserti",
-	"url": "https://happy.bg/menu-2/kokteyli-i-deserti/"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "y4cRxUJBztOKvhu",
-	"json": "{\"id\":\"y4cRxUJBztOKvhu\",\"url\":\"https://happy.bg/restaurants/1/happy-bar-grill-lozenets\",\"loadedUrl\":\"https://happy.bg/restaurants/1/happy-lozenets-sofiya\",\"uniqueKey\":\"https://happy.bg/restaurants/1/happy-bar-grill-lozenets\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:42.460Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/1/happy-bar-grill-lozenets",
-	"url": "https://happy.bg/restaurants/1/happy-bar-grill-lozenets"
-}

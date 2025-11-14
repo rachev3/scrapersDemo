@@ -1,9 +1,0 @@
-{
-	"id": "CCPHteoDjTILwKg",
-	"json": "{\"id\":\"CCPHteoDjTILwKg\",\"url\":\"https://happy.bg/blog/page/11\",\"loadedUrl\":\"https://happy.bg/blog/page/11\",\"uniqueKey\":\"https://happy.bg/blog/page/11\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":11,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:23.306Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/blog/page/11",
-	"url": "https://happy.bg/blog/page/11"
-}

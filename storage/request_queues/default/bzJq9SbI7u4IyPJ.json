@@ -1,9 +1,0 @@
-{
-	"id": "bzJq9SbI7u4IyPJ",
-	"json": "{\"id\":\"bzJq9SbI7u4IyPJ\",\"url\":\"https://happy.bg/restaurants/2/happy-rakovski-sofiya\",\"loadedUrl\":\"https://happy.bg/restaurants/2/happy-rakovski-sofiya\",\"uniqueKey\":\"https://happy.bg/restaurants/2/happy-rakovski-sofiya\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:50:55.114Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/2/happy-rakovski-sofiya",
-	"url": "https://happy.bg/restaurants/2/happy-rakovski-sofiya"
-}

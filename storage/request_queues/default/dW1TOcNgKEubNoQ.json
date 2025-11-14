@@ -1,9 +1,0 @@
-{
-	"id": "dW1TOcNgKEubNoQ",
-	"json": "{\"id\":\"dW1TOcNgKEubNoQ\",\"url\":\"https://happy.bg/sushi_cup/page/2\",\"loadedUrl\":\"https://happy.bg/sushi_cup/page/2\",\"uniqueKey\":\"https://happy.bg/sushi_cup/page/2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:02.816Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/sushi_cup/page/2",
-	"url": "https://happy.bg/sushi_cup/page/2"
-}

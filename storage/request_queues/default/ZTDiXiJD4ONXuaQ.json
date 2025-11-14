@@ -1,9 +1,0 @@
-{
-	"id": "ZTDiXiJD4ONXuaQ",
-	"json": "{\"id\":\"ZTDiXiJD4ONXuaQ\",\"url\":\"https://happy.bg/stellaartois_burger\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg/stellaartois_burger\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":3,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:23.211Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/stellaartois_burger",
-	"url": "https://happy.bg/stellaartois_burger"
-}

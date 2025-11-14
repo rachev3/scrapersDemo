@@ -1,9 +1,0 @@
-{
-	"id": "6RPtooleFNfDpSa",
-	"json": "{\"id\":\"6RPtooleFNfDpSa\",\"url\":\"https://happy.bg/restaurants/9/happy-bar-grill-yan-palah\",\"loadedUrl\":\"https://happy.bg/restaurants/9/happy-yan-palah-varna\",\"uniqueKey\":\"https://happy.bg/restaurants/9/happy-bar-grill-yan-palah\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:45.502Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/9/happy-bar-grill-yan-palah",
-	"url": "https://happy.bg/restaurants/9/happy-bar-grill-yan-palah"
-}

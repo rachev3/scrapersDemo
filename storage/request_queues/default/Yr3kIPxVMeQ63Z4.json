@@ -1,9 +1,0 @@
-{
-	"id": "Yr3kIPxVMeQ63Z4",
-	"json": "{\"id\":\"Yr3kIPxVMeQ63Z4\",\"url\":\"https://happy.bg/madri\",\"loadedUrl\":\"https://happy.bg/\",\"uniqueKey\":\"https://happy.bg/madri\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":6,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:52:53.459Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/madri",
-	"url": "https://happy.bg/madri"
-}

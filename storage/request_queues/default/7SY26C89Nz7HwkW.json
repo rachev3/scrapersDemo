@@ -1,9 +1,0 @@
-{
-	"id": "7SY26C89Nz7HwkW",
-	"json": "{\"id\":\"7SY26C89Nz7HwkW\",\"url\":\"https://happy.bg/restaurants/20/happy-bar-grill-mol-paradays\",\"loadedUrl\":\"https://happy.bg/restaurants/20/happy-mol-paradays-sofiya\",\"uniqueKey\":\"https://happy.bg/restaurants/20/happy-bar-grill-mol-paradays\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":19,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:42.546Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/restaurants/20/happy-bar-grill-mol-paradays",
-	"url": "https://happy.bg/restaurants/20/happy-bar-grill-mol-paradays"
-}

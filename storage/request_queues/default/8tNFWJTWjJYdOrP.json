@@ -1,9 +1,0 @@
-{
-	"id": "8tNFWJTWjJYdOrP",
-	"json": "{\"id\":\"8tNFWJTWjJYdOrP\",\"url\":\"https://happy.bg/blog/59/love-sushi\",\"loadedUrl\":\"https://happy.bg/blog/59/love-sushi\",\"uniqueKey\":\"https://happy.bg/blog/59/love-sushi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":9,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-13T15:53:00.877Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://happy.bg/blog/59/love-sushi",
-	"url": "https://happy.bg/blog/59/love-sushi"
-}
