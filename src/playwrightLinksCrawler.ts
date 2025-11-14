@@ -91,7 +91,7 @@ async function main() {
       for (const href of pageLinks) {
         if (isSkippableScheme(href)) continue;
         try {
-          const absolute = new URL(href).href;
+          const absolute = new URL(href).href.split("#")[0];
           if (sameDomainOnly) {
             const hostname = new URL(absolute).hostname;
             if (!allowedHostnames.has(hostname)) continue;
@@ -111,6 +111,9 @@ async function main() {
         transformRequestFunction: (req) => {
           try {
             const u = new URL(req.url);
+            // Strip fragments to avoid duplicate entries caused by hashes
+            u.hash = "";
+            req.url = u.href;
             if (u.protocol !== "http:" && u.protocol !== "https:") return null;
             if (sameDomainOnly && !allowedHostnames.has(u.hostname))
               return null;
